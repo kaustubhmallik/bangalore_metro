@@ -1,0 +1,28 @@
+---
+kormangala:
+  x-coordinate: 3
+  y-coordinate: 2
+indiranagar:
+  x-coordinate: 1
+  y-coordinate: 0
+hsr layout:
+  x-coordinate: 4
+  y-coordinate: 5
+whitefield:
+  x-coordinate: 3
+  y-coordinate: 10
+electronic city:
+  x-coordinate: 6
+  y-coordinate: 9
+majestic:
+  x-coordinate: 9
+  y-coordinate: 2
+kamanahalli:
+  x-coordinate: 8
+  y-coordinate: 8
+wilson garden:
+  x-coordinate: 1
+  y-coordinate: 9
+nagavara:
+  x-coordinate: 7
+  y-coordinate: 5
