@@ -26,9 +26,9 @@ class _BuyTicketState extends State<BuyTicket> {
   String? dstStn;
 
   Future<void> loadMap() async {
-    if (widget.locationsData) {
-    map = loadYaml(widget.locationsData);
-    locations = map.keys.map((e) => e.toString()).toList();
+    if (widget.locationsData != null) {
+      map = loadYaml(widget.locationsData!);
+      locations = map.keys.map((e) => e.toString()).toList();
     }
   }
 
